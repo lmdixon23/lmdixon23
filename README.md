@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Logan Dixon
 
-<!--
-**lmdixon23/lmdixon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Portfolio:** [my_dev_projects](https://github.com/lmdixon23/my_dev_projects) —
+  production-shaped projects across AI/ML engineering, blockchain protocols, data
+  engineering, and network security. Every project ships tests, smoke pipelines, and
+  honest scope notes.
+- **Live teaching demos:** [12 interactive AI playgrounds](https://lmdixon23.github.io/my_dev_projects/) —
+  drag a slider, watch a concept come to life. No install, bilingual EN / 中文.
+- **Writing:** the [RLVR Operator Series](https://github.com/lmdixon23/rlvr-operator-series) —
+  regularized RL operators behind modern LLM post-training.
+- **Working in:** Python, Rust, TensorFlow / PyTorch, Terraform.
+- **Reach me:** lmdixon23@gmail.com
