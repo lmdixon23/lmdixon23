@@ -6,7 +6,6 @@
   honest scope notes.
 - **Live teaching demos:** [12 interactive AI playgrounds](https://lmdixon23.github.io/my_dev_projects/) —
   drag a slider, watch a concept come to life. No install, bilingual EN / 中文.
-- **Writing:** the [RLVR Operator Series](https://github.com/lmdixon23/rlvr-operator-series) —
-  regularized RL operators behind modern LLM post-training.
+- **Writing:** an RLVR Operator Series — regularized RL operators behind modern LLM post-training.
 - **Working in:** Python, Rust, TensorFlow / PyTorch, Terraform.
 - **Reach me:** lmdixon23@gmail.com
