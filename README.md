@@ -1,6 +1,6 @@
-## Logan Dixon - I build AI/ML and systems projects, and teach the ideas behind them
+## Logan Dixon — I build AI/ML and systems projects, and teach the ideas behind them
 
-Computer science, mathematics, and physics educator at Haidian Kaiwen Academy (Beijing), researcher, and sole developer of everything below. Teaching keeps the engineering honest: if I can't make a student see it, I don't understand it. Currently writing a series on RL post-training (operators behind LLM RLVR).
+Computer-science educator at Haidian Kaiwen Academy (Beijing) and sole developer of everything below. BSc in CS/Math/Engineering Physics, MEd Secondary STEM Education, and I've taught math and physics too. Teaching keeps the engineering honest: if I can't make a student see it, I don't understand it. Currently writing a series on RL post-training (the operators behind LLM RLVR).
 
 - **RL post-training — my sharpest edge:** the RLVR Operator Series, on the regularized operators behind LLM RLVR, with runnable companion code — a [regularized-operator zoo](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/regularized_operator_zoo) and a [GRPO reproduction](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/grpo_minimal) of Shao et al. 2024, Figure 5.
 - **Portfolio — [my_dev_projects](https://github.com/lmdixon23/my_dev_projects):** RAG, an agent toolkit, an eval harness, six Rust protocol crates, CV/NLP models, and cloud-security IaC. Every project ships tests, smoke pipelines, and an explicit Scope section.
