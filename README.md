@@ -4,7 +4,7 @@ Computer-science educator at Haidian Kaiwen Academy (Beijing) and sole developer
 
 - **RL post-training — my sharpest edge:** the RLVR Operator Series, on the regularized operators behind LLM RLVR, with runnable companion code — a [regularized-operator zoo](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/regularized_operator_zoo) and a [GRPO reproduction](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/grpo_minimal) of Shao et al. 2024, Figure 5.
 - **Portfolio — [my_dev_projects](https://github.com/lmdixon23/my_dev_projects):** RAG, an agent toolkit, an eval harness, six Rust protocol crates, CV/NLP models, and cloud-security IaC. Every project ships tests, smoke pipelines, and an explicit Scope section.
-- **Live demos — [12 interactive AI playgrounds](https://lmdixon23.github.io/my_dev_projects/):** drag a slider, watch a concept come alive. No install, bilingual EN / 中文.
+- **Live demos — [12 interactive AI playgrounds](https://lmdixon23.github.io/my_dev_projects/):** drag a slider, watch the concept respond. No install, bilingual EN / 中文.
 - **Stack:** Python, Rust, TensorFlow/Keras, Hugging Face, Terraform.
 - **Reach me:** lmdixon23@gmail.com, [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/)
 
