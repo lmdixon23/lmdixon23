@@ -1,11 +1,37 @@
-## Logan Dixon — I build AI/ML and systems projects, and teach the ideas behind them
+# Logan M. Dixon
 
-Independent AI researcher and computer-science educator at Haidian Kaiwen Academy (Beijing), and the sole developer of everything below. BSc in CS/Math/Engineering Physics, MEd Secondary STEM Education, and I've taught math and physics too. Teaching keeps the engineering honest: if I can't make a student see it, I don't understand it. Currently writing a series on RL post-training (the operators behind LLM RLVR).
+Independent researcher and computer science educator working across nonlinear analysis, mathematical optimization, neural networks, and reproducible computational research.
 
-- **RL post-training — my sharpest edge:** the RLVR Operator Series, on the regularized operators behind LLM RLVR, with runnable companion code — a [regularized-operator zoo](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/regularized_operator_zoo) and a [GRPO reproduction](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr/grpo_minimal) of Shao et al. 2024, Figure 5.
-- **Portfolio — [my_dev_projects](https://github.com/lmdixon23/my_dev_projects):** RAG, an agent toolkit, an eval harness, six Rust protocol crates, CV/NLP models, and cloud-security IaC. Every project ships tests, smoke pipelines, and an explicit Scope section.
-- **Live demos — [12 interactive AI playgrounds](https://lmdixon23.github.io/ai-playgrounds/):** drag a slider, watch the concept respond. No install, bilingual EN / 中文.
-- **Stack:** Python, Rust, TensorFlow/Keras, Hugging Face, Terraform.
-- **Reach me:** lmdixon23@gmail.com, [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/), and my site **[lmdixon23.github.io](https://lmdixon23.github.io/)**
+[Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/) · [Email](mailto:lmdixon23@gmail.com)
 
-Open to research, AI/ML engineering, and LLM post-training roles.
+## Current research
+
+- **[Nonseparability characterizes SONC exactness for interior signed supports](https://github.com/lmdixon23/sonc-2026-nonseparability-exactness)**
+
+  An analytic characterization of SONC exactness, with exact and interval-certified computation for the explicit witness and quantitative benchmark.
+
+- **[Averaged-Jacobian failure at the first open width of the Neural Jacobian Conjecture](https://github.com/lmdixon23/njc-separation)**
+
+  A certified separation between pointwise Jacobian positivity and the averaged-Jacobian mechanism. The witness's injectivity remains open.
+
+- **[Ptolemy structure, sign rigidity, and pure-braid kernels in colored braid groupoid representations](https://github.com/lmdixon23/cbg-2026-representation-checks)**
+
+  Exact structural identities, exhaustive sign-rule analysis, and rational inner pure-braid kernel computations along certified flip sequences.
+
+Each research repository separates analytic claims, proof-bearing computation, independent reconstruction, diagnostics, and open questions through concise public status records and claim-to-artifact maps.
+
+## AI systems and education
+
+- **[AI Playgrounds](https://lmdixon23.github.io/ai-playgrounds/)** — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning.
+- **[RLVR and GRPO studies](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr)** — compact studies of regularized policy-improvement operators and a CPU-scale GRPO reproduction.
+- **[Engineering portfolio](https://github.com/lmdixon23/my_dev_projects)** — projects across evaluation, retrieval, agents, machine learning, Rust systems, infrastructure, and security.
+
+## Methods and tools
+
+I prefer analytic structure where it is available, then exact algebra, interval arithmetic, certified computation, and independent reconstruction where finite computation carries claim weight.
+
+**Primary tools:** Python, Rust, NumPy, SciPy, SymPy, TensorFlow/Keras, Hugging Face, and Terraform.
+
+## Contact
+
+Open to research collaboration, technical review, and roles in mathematical AI, machine learning, and research engineering.
