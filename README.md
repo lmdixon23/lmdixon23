@@ -12,7 +12,11 @@ Independent researcher and computer science educator working across nonlinear an
 
 - **[Averaged-Jacobian failure at the first open width of the Neural Jacobian Conjecture](https://github.com/lmdixon23/njc-separation)**
 
-  A certified separation between pointwise Jacobian positivity and the averaged-Jacobian mechanism. The witness's injectivity remains open.
+  A certified separation between pointwise Jacobian positivity and the averaged-Jacobian mechanism at planar width four. The global behavior of the canonical witness is resolved in the follow-up below.
+
+- **[Asymptotic-polygon global inversion for planar saturating ridge networks](https://github.com/lmdixon23/njc-2026-cluster-inversion)**
+
+  A global inversion theorem resolving the certified separation witness as an injective global diffeomorphism onto an explicit nonconvex octagon, with exact and validated parameter certificates.
 
 - **[Ptolemy structure, sign rigidity, and pure-braid kernels in colored braid groupoid representations](https://github.com/lmdixon23/cbg-2026-representation-checks)**
 
