@@ -1,8 +1,8 @@
 # Logan M. Dixon
 
-Independent researcher and computer science educator working across nonlinear analysis, mathematical optimization, neural networks, and reproducible computational research.
+Independent researcher and computer science educator working across nonlinear systems, mathematical AI, machine learning, and reproducible computation.
 
-[Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/) · [Email](mailto:lmdixon23@gmail.com)
+[Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/)
 
 ## Current research
 
@@ -22,11 +22,11 @@ Independent researcher and computer science educator working across nonlinear an
 
   Exact structural identities, exhaustive sign-rule analysis, and rational inner pure-braid kernel computations along certified flip sequences.
 
-Each research repository separates analytic claims, proof-bearing computation, independent reconstruction, diagnostics, and open questions through concise public status records and claim-to-artifact maps.
+Each research repository distinguishes analytic arguments from computational verification and links its principal claims to reproducible artifacts.
 
 ## AI systems and education
 
-- **[AI Playgrounds](https://lmdixon23.github.io/ai-playgrounds/)** — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning.
+- **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [source](https://github.com/lmdixon23/ai-playgrounds) — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning.
 - **[RLVR and GRPO studies](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr)** — compact studies of regularized policy-improvement operators and a CPU-scale GRPO reproduction.
 - **[Engineering portfolio](https://github.com/lmdixon23/my_dev_projects)** — projects across evaluation, retrieval, agents, machine learning, Rust systems, infrastructure, and security.
 
