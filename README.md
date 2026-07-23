@@ -2,7 +2,7 @@
 
 Independent researcher and computer science educator working across nonlinear systems, mathematical AI, machine learning, and reproducible computation.
 
-[Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/logan-dixon-b1bb43329/)
+[Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/loganmdixon/)
 
 ## Current research
 
