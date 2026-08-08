@@ -26,7 +26,7 @@ Each research repository distinguishes analytic arguments from computational ver
 
 ## AI systems and education
 
-- **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [source](https://github.com/lmdixon23/ai-playgrounds) — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning.
+- **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [source](https://github.com/lmdixon23/ai-playgrounds) · [v1.0.1](https://github.com/lmdixon23/ai-playgrounds/releases/tag/v1.0.1) · [DOI](https://doi.org/10.5281/zenodo.21854217) — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning; the archived release carries 45 deterministic algorithm checks and a 63-case browser matrix.
 - **[RLVR and GRPO studies](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr)** — compact studies of regularized policy-improvement operators and a CPU-scale GRPO reproduction.
 - **[Engineering portfolio](https://github.com/lmdixon23/my_dev_projects)** — projects across evaluation, retrieval, agents, machine learning, Rust systems, infrastructure, and security.
 
