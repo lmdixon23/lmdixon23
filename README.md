@@ -1,6 +1,6 @@
 # Logan M. Dixon
 
-Independent researcher and computer science educator working across nonlinear systems, mathematical AI, machine learning, and reproducible computation.
+Independent researcher and computer science educator working across mathematical AI, nonlinear systems, machine-learning evaluation, and reproducible computation.
 
 [Research site](https://lmdixon23.github.io/) · [ORCID](https://orcid.org/0009-0001-0592-462X) · [LinkedIn](https://www.linkedin.com/in/loganmdixon/)
 
@@ -10,13 +10,13 @@ Independent researcher and computer science educator working across nonlinear sy
 
   An analytic characterization of SONC exactness, with exact and interval-certified computation for the explicit witness and quantitative benchmark.
 
-- **[Averaged-Jacobian failure at the first open width of the Neural Jacobian Conjecture](https://github.com/lmdixon23/njc-separation)**
-
-  A certified separation between pointwise Jacobian positivity and the averaged-Jacobian mechanism at planar width four. The global behavior of the canonical witness is resolved in the follow-up below.
-
 - **[Asymptotic-polygon global inversion for planar saturating ridge networks and an injective neural-Jacobian separation witness](https://github.com/lmdixon23/njc-2026-cluster-inversion)**
 
   A global inversion theorem resolving the certified separation witness as an injective global diffeomorphism onto an explicit nonconvex octagon, with exact and validated parameter certificates.
+
+- **[A positive-Jacobian noninjective sigmoid ridge map and the sharp hidden-width threshold](https://github.com/lmdixon23/njc-2026-planar-n4-winding)**
+
+  An exact rational counterexample at planar width four with an everywhere-positive Jacobian determinant, winding number two at an explicit rational target, and two independently certified preimages; together with the lower-width positive results, it gives the sharp hidden-width threshold.
 
 - **[Ptolemy structure, sign rigidity, and pure-braid kernels in colored braid groupoid representations](https://github.com/lmdixon23/cbg-2026-representation-checks)**
 
@@ -24,9 +24,10 @@ Independent researcher and computer science educator working across nonlinear sy
 
 Each research repository distinguishes analytic arguments from computational verification and links its principal claims to reproducible artifacts.
 
-## AI systems and education
+## AI systems, evaluation, and education
 
 - **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [source](https://github.com/lmdixon23/ai-playgrounds) · [v1.0.1](https://github.com/lmdixon23/ai-playgrounds/releases/tag/v1.0.1) · [DOI](https://doi.org/10.5281/zenodo.21854217) — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning; the archived release carries 45 deterministic algorithm checks and a 63-case browser matrix.
+- **[EvalCanary](https://github.com/lmdixon23/evalcanary)** — evaluator-migration tooling that holds model outputs fixed, replays before-and-after verifiers, classifies verdict transitions, estimates paired uncertainty, checks subgroup effects, preserves execution provenance, and enforces explicit CI policy gates.
 - **[RLVR and GRPO studies](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr)** — compact studies of regularized policy-improvement operators and a CPU-scale GRPO reproduction.
 - **[Engineering portfolio](https://github.com/lmdixon23/my_dev_projects)** — projects across evaluation, retrieval, agents, machine learning, Rust systems, infrastructure, and security.
 
