@@ -26,7 +26,10 @@ Each research repository distinguishes analytic arguments from computational ver
 
 ## AI systems, evaluation, and education
 
-- **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [source](https://github.com/lmdixon23/ai-playgrounds) · [v1.0.1](https://github.com/lmdixon23/ai-playgrounds/releases/tag/v1.0.1) · [DOI](https://doi.org/10.5281/zenodo.21854217) — twelve bilingual browser-based visualizations for search, logic, probability, machine learning, neural networks, vision, and reinforcement learning; the archived release carries 45 deterministic algorithm checks and a 63-case browser matrix.
+- **AI Playgrounds** — [live site](https://lmdixon23.github.io/ai-playgrounds/) · [website and downloads](https://github.com/lmdixon23/ai-playgrounds) · [v1.9.6](https://github.com/lmdixon23/ai-playgrounds/releases/tag/v1.9.6) — 15 interactive browser labs for foundational AI, Transformer language modeling, agent tool use, and adversarial search. Every lab has a standalone HTML download and a Quick Assign, with English, Simplified Chinese, Vietnamese, and Spanish learner support; some supporting teaching materials have narrower language coverage. v1.9.6 improves classroom draft recovery, keyboard navigation, and instructional accuracy. The broader manual file/lab audit remains unfinished.
+
+  Historical archive: [v1.0.1](https://github.com/lmdixon23/ai-playgrounds/releases/tag/v1.0.1) · [v1.0.1 DOI](https://doi.org/10.5281/zenodo.21854217). Its twelve bilingual labs, 45 deterministic algorithm checks, and 63-case browser matrix describe that earlier snapshot, not v1.9.6.
+
 - **[EvalCanary](https://github.com/lmdixon23/evalcanary)** — evaluator-migration tooling that holds model outputs fixed, replays before-and-after verifiers, classifies verdict transitions, estimates paired uncertainty, checks subgroup effects, preserves execution provenance, and enforces explicit CI policy gates.
 - **[RLVR and GRPO studies](https://github.com/lmdixon23/my_dev_projects/tree/main/ai_engineering/rlvr)** — compact studies of regularized policy-improvement operators and a CPU-scale GRPO reproduction.
 - **[Engineering portfolio](https://github.com/lmdixon23/my_dev_projects)** — projects across evaluation, retrieval, agents, machine learning, Rust systems, infrastructure, and security.
